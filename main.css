@@ -24,5 +24,13 @@ label {
 }
 
 .text-report dt:after {
-  content: ": ";
+  content: ':';
+}
+
+.show-stats{
+  color: #39b7e6;
+  cursor: pointer;
+}
+.statistics {
+  background-color: #8ce0ea;
 }
